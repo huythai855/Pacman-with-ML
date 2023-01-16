@@ -3,7 +3,7 @@
 ### Mô tả
 *Một phiên bản cải tiến của tựa game kinh điển Pacman bằng cách sử dụng Machine Learning.*
 
-<img align="center" width="400px" src="https://raw.githubusercontent.com/huythai855/Pacman-with-ML/master/assets/pacman-game.gif?token=GHSAT0AAAAAABYAIINGPTNSIY5TXPKUJ2X6Y4WSY3A"></img>
+<img align="center" width="400px" src="https://raw.githubusercontent.com/huythai855/Pacman-with-ML/master/assets/pacman-game.gif"></img>
 
 
 ### Tác giả
